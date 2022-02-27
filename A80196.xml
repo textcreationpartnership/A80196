@@ -1,0 +1,2171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La clef-dor de la langue Angloise avec laquelle I. On entre dans les entretiens historiques de la paix et la guerre. en campagne ou la campagne de compiegne II. On ouvre les males des deux couriers des dames de l'Europe, assembleés au conclave de  junon sur tous les mariages des princes et princesses des anneés, 1697-8,9. On ya ajouté l'almanach royal, d'Angleterre. Par F. Colsoni auteur du Guide de Londres. Maistre de lang. Ital Franc Esp. &amp; Angl demeurant à present à l'Enseigne de l'Academie Alemande en Suffolk-street.</title>
+            <author>Colsoni, François.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80196</idno>
+            <idno type="STC">Wing C5422aA</idno>
+            <idno type="STC">ESTC R223942</idno>
+            <idno type="EEBO-CITATION">99896946</idno>
+            <idno type="PROQUEST">99896946</idno>
+            <idno type="VID">135665</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80196)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135665)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2461:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>La clef-dor de la langue Angloise avec laquelle I. On entre dans les entretiens historiques de la paix et la guerre. en campagne ou la campagne de compiegne II. On ouvre les males des deux couriers des dames de l'Europe, assembleés au conclave de  junon sur tous les mariages des princes et princesses des anneés, 1697-8,9. On ya ajouté l'almanach royal, d'Angleterre. Par F. Colsoni auteur du Guide de Londres. Maistre de lang. Ital Franc Esp. &amp; Angl demeurant à present à l'Enseigne de l'Academie Alemande en Suffolk-street.</title>
+                  <author>Colsoni, François.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date and place of publication from Wing (CD-ROM).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135665:1"/>
+            <p>LA CLEF-DOR DE LA LANGUE ANGLOISE, Avec Laquelle
+<list>
+                  <item>I. On entre dans les Entretiens Hiſtoriques de LA PAIX et LA GUERRE. en Campagne Ou La Campagne de Compiegne</item>
+                  <item>II. On ouvre les Males des deux Couriers DES DAMES DE L'EUROPE</item>
+               </list>
+Aſſembleés au Conclave de Junon Sur tous les Mariages des PRINCES et PRINCESSES des Anneés, 1697-8, 9. On y a ajouté l'Almanach Royal, d'Angleterre.</p>
+            <p>Par <hi>F. Colſoni</hi> Auteur du Guide de Londres. Maiſtre de Lang. Ital Franc Eſp. &amp; Angl demeurant à preſent à l'Enſeigne de L'Aca<g ref="char:EOLhyphen"/>demie Alemande en Suffolk-ſtreet.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:135665:2"/>
+            <head>Et à tous les <hi>Nobles Voyageurs Etrangers</hi> qui viſitent L'<hi>An<g ref="char:EOLhyphen"/>gleterre.</hi>
+            </head>
+            <lg>
+               <l>SI <hi>Le Parler des Francs</hi> fe fait Univerſel</l>
+               <l>Par <hi>Ses Subjects Errans,</hi> Je veux que l'<hi>Angletter<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi>
+               </l>
+               <l>Pour celebrer <hi>le Sien,</hi> ſouffre par tout que J'erre</l>
+               <l>Et faſſe decouvrir ſone Emphaſe &amp; ſon Sel.</l>
+            </lg>
+            <lg>
+               <l>Il eſt riche, il eſt doux, ouy ſon Genie eſt tel</l>
+               <l>Que le <hi>Saxon,</hi> le <hi>Turc,</hi> le <hi>Franc,</hi> Toute la Terre</l>
+               <l>Charmez de Son <hi>Beau Sexe</hi> autant en <hi>Paix</hi> qu'en <hi>Guerre</hi>
+               </l>
+               <l>ConÇoivent tous pour Luy un Amour immortel.</l>
+            </lg>
+            <lg>
+               <l>Prennez donc dans vos mains <hi>Meſſieurs</hi> Cette <hi>Clef d'or</hi>
+               </l>
+               <l>Pour entrer dans ſa Cour &amp; trouver ſon Treſor</l>
+               <l>Où les Dames font voir leurs Graces Soveraines.</l>
+            </lg>
+            <lg>
+               <l>La Langue <hi>d'Albion</hi> eſt Celles des <hi>Sireines</hi>
+               </l>
+               <l>Qui, tant plus on l'ecoute, attire &amp; montre plus</l>
+               <l>De ſens, d'eſprit, de feux, d'appas &amp; de Vertus.</l>
+            </lg>
+            <lg>
+               <l>Goutez donc <hi>Voyageurs</hi> Son aymable Ver-jus.</l>
+            </lg>
+            <closer>
+               <signed>Ce ſont les Voeux &amp; les Etrenes de V. tres H. &amp; Ob. Sr. <hi>F. Colſoni.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:135665:2"/>
+            <head>Alphabeth Anglois.</head>
+            <p>a, b, c, d, e, f, g, h, i, k, l, m, n, o, p, q, r, ſ, s, t, v, u, w, x, y, z.</p>
+            <p>CUrieuſe Remarque ſur les Voyelles a, e, i, o, u, y. a. Devant f, l, r, t, u, w. Dans la même ſillabe ſe prononce comme dans le françois. Ex <hi>after,</hi> après. <hi>all,</hi> tout <hi>Particular. cauſe, law, ſaw,</hi> Et ail<g ref="char:EOLhyphen"/>leurs comme (e) ex. <hi>take care,</hi> prenez garde, <hi>table fable.</hi>
+            </p>
+            <list>
+               <item>e. Se pronounce comme (i) dans tout les mots ſuivans. <hi>me, thee, he, ſhe, we, ye, be, here, even, devil, evil,</hi> et devant (w) <hi>few, pew, dew.</hi> Roſée, prononcez fiou, diou. Et a; la fin d'autres mots, il ne ſe prononce ja<g ref="char:EOLhyphen"/>mais.</item>
+               <item>i. Se pron. quaſi comme (e) en ces mots; <hi>Sir,</hi> Monſieur. <hi>girl,</hi> fille; <hi>Girld,</hi> ceinture; <hi>birth,</hi> naiſſance; <hi>mirth,</hi> gayeté; <hi>whether,</hi> où; <hi>hither,</hi> jcy; <hi>thither,</hi> lâ;</item>
+               <item>i. Quaſi comme (o) en Ceuxcy; <hi>firſt,</hi> premier;
+<pb n="4" facs="tcp:135665:3"/>
+                  <hi>third</hi> troiſieme; <hi>ſhirt,</hi> chemiſe <hi>ſtir,</hi> remuer; et devant (r)</item>
+               <item>l. Devant (nd, gh) ou une ſillabe qui finit par (e) ſe prononce (ei) à l'Italiene. <hi>blind,</hi> aveugle; <hi>night,</hi> nuit; <hi>crime, time;</hi> on excepte les mots qui finiſſént par (ive) ex. <hi>give,</hi> donner; <hi>live,</hi> vivre; <hi>ſervice, office; juſtice, practice, police, &amp;c.</hi> par tout ail<g ref="char:EOLhyphen"/>leurs (i)</item>
+               <item>o. Entre deux conſonnes comme (a) <hi>God,</hi> Dieu; <hi>ſhop,</hi> boutique, &amp; par tout ailleurs comme en françois.</item>
+               <item>u. Entre deux conſonnes comme (o) <hi>but,</hi> mais; <hi>put,</hi> mettre; et par tout ailleurs comme (iou) <hi>pure, ſure, union, urine, Europe.</hi>
+               </item>
+               <item>y. Se prononce (ei) dans ces ſeuls mots. <hi>My, thy, buy, by, cry, dy, dry, fy, ly, fly,</hi> et les mots compoſez de (ſie) <hi>gratifie, beauti<g ref="char:EOLhyphen"/>fie, glorifie,</hi> &amp;c.</item>
+            </list>
+            <list>
+               <head>1. Obſervation ſur les Diphtongues.</head>
+               <item>ai, ay. <hi>fair, pair, faith, may, ſay, lay.</hi> com<g ref="char:EOLhyphen"/>me en francçois. beau, pair, foy, je puis, dis, gage, <hi>&amp;c.</hi>
+               </item>
+               <item>au, aw. <hi>cauſe, law, ſaw.</hi> on ne prononce pas (u).</item>
+               <item>ea. Dans le ſeul mot <hi>(heart)</hi> coeur, on pro<g ref="char:EOLhyphen"/>nonce (a) et par tout ailleurs on ne'le pro<g ref="char:EOLhyphen"/>nonce pas.</item>
+               <pb n="5" facs="tcp:135665:3"/>
+               <item>ee. Se prononce (ï <hi>long</hi>) <hi>queen, feet, meet, ſeen.</hi>
+               </item>
+               <item>eo. Dans <hi>people,</hi> peuple; prononcez, piple.</item>
+               <item>oa. Ne prononcez jamais (a) ſinon dans ces trois mots, <hi>abroad, broad, groat,</hi> où (o) eſt muét.</item>
+               <item>oe. Se prononce (ou) ſinon en ces trois mots, où (e) eſt muët, <hi>a doe, a toe, a foe,</hi> daim, orteil, enemy.</item>
+               <item>oi. oy. Il faut la vive voix du Maitre, <hi>boy, boil, voice.</hi>
+               </item>
+               <item>oo. Comme (ou) <hi>good,</hi> bon; <hi>food,</hi> nouriture; <hi>foot,</hi> pied.</item>
+               <item>ua. ue. ui. uo. <hi>quarel, queſtion, ſuit, quote;</hi> pr. qouarel, qouſtion, ſute, quote, &amp;c.</item>
+            </list>
+            <list>
+               <head>2. Remarque ſur les Lettres Muëttes.</head>
+               <item>b. <hi>Comb, debt, doubt, dumb, climb, limb, thumb, womb.</hi>
+               </item>
+               <item>gh. à la fin et au milieu des mots ſont muets; comme <hi>high, nigh.</hi> Mais en ces mots, <hi>enough,</hi> aſſez; <hi>rough,</hi> rude; <hi>cough,</hi> touſ<g ref="char:EOLhyphen"/>ſer; <hi>laugh,</hi> rire; pr. enof, rof, cof, lâfe.</item>
+               <item>h. Eſt muet en, <hi>hour, honour, humble.</hi>
+               </item>
+               <item>k. Devant (n) <hi>knee, knew, knife.</hi>
+               </item>
+               <item>l. Entre (a) et (f) ou (k) <hi>calf, walk, talk.</hi>
+               </item>
+               <item>w. Devant (r) <hi>to write, wrong,</hi> &amp; dans <hi>anſwer.</hi>
+               </item>
+            </list>
+            <pb n="6" facs="tcp:135665:4"/>
+            <list>
+               <head>3. Remarque d'autres Conſonnes.</head>
+               <item>ch. Prononcez (tch) <hi>chamber, cherice, child, church.</hi>
+               </item>
+               <item>Ja, je, ji, jo, ju. Comme en Italien, avec un (d) devant.</item>
+               <item>ge, gi. Prononcez, ghe, ghi, à l'italienne en ces mots, <hi>anger, bigger, dagger, finger, girl, gild, give, get,</hi> et dans le mot final monger) <hi>Ironmonger,</hi> &amp;c.</item>
+               <item>ſh. Prononcez (ch) <hi>ſhe, ſhews, ſhall, ſhut, ſhine.</hi>
+               </item>
+               <item>th Demande la voix du Maitre. <hi>There, think, thank.</hi>
+               </item>
+               <item>wh. Prononcez, (hu) <hi>who, where, what, whence.</hi> qui, où, quoy, d'où.</item>
+               <item>old. Prononcez, <hi>(ould,) told, cold, bold, ſold,</hi> &amp;c. vieux, dit, froid, hardy, vendu.</item>
+            </list>
+            <div type="part">
+               <head>Reigle des Articles.</head>
+               <p>
+                  <hi>The.</hi> Signifie, le, la, les, <hi>King, Kings, Queen, Queens. Of the,</hi> ou, <hi>from the, ſignifie,</hi> du, dela, des. <hi>to the, ſignifie</hi> (à) <hi>to me</hi> a moy, <hi>to you,</hi> à vous.</p>
+               <p>
+                  <hi>Of</hi> et <hi>from,</hi> ſignifient (de) et <hi>(to (ſignifie</hi> (à)</p>
+               <p>Les Adjectifs ſont Indeclinables &amp; precedent toujours les Subſtantifs, ex. <hi>Good, honeſt Men.</hi> Les Articles, le, la, les. <hi>Him, her, (it) them.</hi>
+               </p>
+               <p>On ſe ſert du mot <hi>(it)</hi> quand on parle des choſes inanimées, comme, je le ſcay, <hi>I know it.</hi>
+                  <pb n="7" facs="tcp:135665:4"/>Je le connois; <hi>I know him.</hi> Je l'aime, <hi>love her,</hi> ou <hi>him.</hi>
+               </p>
+               <p>Je les enſeigne, <hi>I do teach them.</hi>
+               </p>
+               <p>Faites le donc, <hi>do it then.</hi>
+               </p>
+               <p>Dites le à monſieur, <hi>tell it to the Gentle<g ref="char:EOLhyphen"/>man.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <p>
+                  <table>
+                     <head>Table Generale de tous les Pronoms.</head>
+                     <row>
+                        <cell>
+                           <hi>I</hi>
+                        </cell>
+                        <cell>
+                           <hi>Me</hi>
+                        </cell>
+                        <cell>
+                           <hi>My</hi>
+                        </cell>
+                        <cell>
+                           <hi>Myſelf</hi>
+                        </cell>
+                        <cell>
+                           <hi>Mine.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Je moy. </cell>
+                        <cell>me, moy,</cell>
+                        <cell>mon, ma.</cell>
+                        <cell>moy meme</cell>
+                        <cell>le mien.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Thou </hi>
+                        </cell>
+                        <cell>
+                           <hi>Thee </hi>
+                        </cell>
+                        <cell>
+                           <hi>Thy </hi>
+                        </cell>
+                        <cell>
+                           <hi>Thyſelf</hi>
+                        </cell>
+                        <cell>
+                           <hi>Thine.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Tu, Toy.</cell>
+                        <cell>Te toy.</cell>
+                        <cell>Ton, ta.</cell>
+                        <cell>Toy meme. </cell>
+                        <cell>le Tien.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>He</hi>
+                        </cell>
+                        <cell>
+                           <hi>Him</hi>
+                        </cell>
+                        <cell>
+                           <hi>His</hi>
+                        </cell>
+                        <cell>
+                           <hi>Himſelf</hi>
+                        </cell>
+                        <cell>
+                           <hi>His.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>il, luy.</cell>
+                        <cell>le, luy.</cell>
+                        <cell>ſon, ſa.</cell>
+                        <cell>luy meme.</cell>
+                        <cell>le ſien.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>She</hi>
+                        </cell>
+                        <cell>
+                           <hi>Her</hi>
+                        </cell>
+                        <cell>
+                           <hi>Her</hi>
+                        </cell>
+                        <cell>
+                           <hi>Her ſelf</hi>
+                        </cell>
+                        <cell>
+                           <hi>Hers.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Elle.</cell>
+                        <cell>la, luy.</cell>
+                        <cell>ſon, ſa.</cell>
+                        <cell>elle meme.</cell>
+                        <cell>le ſien.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>We</hi>
+                        </cell>
+                        <cell>
+                           <hi>
+                              <g ref="char:V">Ʋ</g>s</hi>
+                        </cell>
+                        <cell>
+                           <hi>Our</hi>
+                        </cell>
+                        <cell>
+                           <hi>Our ſelves</hi>
+                        </cell>
+                        <cell>
+                           <hi>Ours.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Nous.</cell>
+                        <cell>Nous.</cell>
+                        <cell>Notre.</cell>
+                        <cell>Nous memes.</cell>
+                        <cell>le Notre.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Ye</hi>
+                        </cell>
+                        <cell>
+                           <hi>You</hi>
+                        </cell>
+                        <cell>
+                           <hi>Your</hi>
+                        </cell>
+                        <cell>
+                           <hi>Your ſelves</hi>
+                        </cell>
+                        <cell>
+                           <hi>Yours.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Vous</cell>
+                        <cell>vous</cell>
+                        <cell>votre</cell>
+                        <cell>vous memes</cell>
+                        <cell>le votre.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>They</hi>
+                        </cell>
+                        <cell>
+                           <hi>them</hi>
+                        </cell>
+                        <cell>
+                           <hi>their</hi>
+                        </cell>
+                        <cell>
+                           <hi>themſelves</hi>
+                        </cell>
+                        <cell>
+                           <hi>theirs.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Ils, elles.</cell>
+                        <cell>les, leur.</cell>
+                        <cell>leur.</cell>
+                        <cell>eux memes</cell>
+                        <cell>le leur.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>Who?</hi>
+                        </cell>
+                        <cell>
+                           <hi>whoſe?</hi>
+                        </cell>
+                        <cell>
+                           <hi>to whom</hi>
+                        </cell>
+                        <cell>
+                           <hi>from whom.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Qui?</cell>
+                        <cell>de qui,</cell>
+                        <cell>à qui.</cell>
+                        <cell>de qui.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell>
+                           <hi>What?</hi>
+                        </cell>
+                        <cell>
+                           <hi>which</hi>
+                        </cell>
+                        <cell>
+                           <hi>this</hi>
+                        </cell>
+                        <cell>
+                           <hi>that</hi>
+                        </cell>
+                        <cell>
+                           <hi>theſe</hi>
+                        </cell>
+                        <cell>
+                           <hi>thoſe.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Quel que?</cell>
+                        <cell>qui, quel.</cell>
+                        <cell>cecy</cell>
+                        <cell>cela</cell>
+                        <cell cols="2"> Pluriel.</cell>
+                     </row>
+                  </table>
+                  <table>
+                     <row>
+                        <cell>Le mien propre.</cell>
+                        <cell>le tien propre.</cell>
+                        <cell>leſien propre.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>My own</hi>
+                        </cell>
+                        <cell>
+                           <hi>thy own</hi>
+                        </cell>
+                        <cell>
+                           <hi>his own.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>Le notre propre.</cell>
+                        <cell>le votre propre.</cell>
+                        <cell>le leur propre.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Our own</hi>
+                        </cell>
+                        <cell>
+                           <hi>your own</hi>
+                        </cell>
+                        <cell>
+                           <hi>their own.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:135665:5"/>
+               <head>OBSERVATION.</head>
+               <p>Tous les Pronoms ſont de Genres Communs et Indeclinables; Car pour dire, mon, ma, mes, on dit <hi>(my)</hi> Et le mien, la miene, les miens, les mienes on dit <hi>(mine)</hi> et ainſi de tous les autres.</p>
+               <p>
+                  <list>
+                     <head>Table Generale de tous les Verbes Anglois.</head>
+                     <item>
+                        <hi>To.</hi> Eſt la Marque ordinaire des infinitifs.</item>
+                     <item>
+                        <hi>Have,</hi> avoir; <hi>Be.</hi> etre; <hi>Love,</hi> aimer, <hi>&amp;c.</hi>
+                     </item>
+                     <item>Tems Preſent. <hi>I love, do love, am loving,</hi> J'aime.</item>
+                     <item>Tems Paſſe. <hi>I did love,</hi> ou <hi>loved,</hi> J'ai<g ref="char:EOLhyphen"/>mois.</item>
+                     <item>Tems Futur ou abſolu. <hi>I ſhall</hi> ou <hi>will love,</hi> J'aimeray.</item>
+                     <item>Tems Futur conditionel. <hi>I ſhould,</hi> ou <hi>would love,</hi> J'aimerois.</item>
+                     <item>Optatif. <hi>That I may love,</hi> Que J'aime.</item>
+                     <item>Tems Imparfait. <hi>That I might love,</hi> Que J'aimaſſe.</item>
+                     <item>Particip. Actif. <hi>Loving,</hi> aymant.</item>
+                     <item>Particip. Paſſif. <hi>Loved.</hi> aimé.</item>
+                  </list>
+                  <list>
+                     <head>Obſervation Singuliere.</head>
+                     <item>La Premiere Perſonne du Singulier &amp; les 3. du Pluriel ſont tousjours ſemblables, comme,
+<pb n="9" facs="tcp:135665:5"/>I <hi>love, we, ye, they love</hi> J'aime, nous, vous, ils.</item>
+                     <item>La Seconde du Singulier finit par <hi>[ſt]</hi>
+                     </item>
+                     <item>
+                        <hi>Thou loveſt.</hi> et dans les autres; <hi>mayſt, ſhouldſt,</hi> &amp;c.</item>
+                     <item>La Troiſieme du Preſent de l' Indicatif ſeu<g ref="char:EOLhyphen"/>lement finit par <hi>[th]</hi> ou <hi>['s]</hi>
+                     </item>
+                     <item>
+                        <hi>He loveth,</hi> ou <hi>lov's,</hi> il aime. <hi>She ſpeaketh, ſpeak's,</hi> elle parle.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="part">
+               <head>Obſervations des Deux Auxiliaires.</head>
+               <list>
+                  <item>J'ay, <hi>I have,</hi> parlé, <hi>ſpoken.</hi>
+                  </item>
+                  <item>Tu as, <hi>thou haſt.</hi>
+                  </item>
+                  <item>Il, Elle, <hi>He, She hath.</hi>
+                  </item>
+                  <item>Nous, vous, ils, elle, ont. <hi>We, ye, they have.</hi>
+                  </item>
+                  <item>Je ſuis aimè.</item>
+                  <item>
+                     <hi>I am loved.</hi>
+                  </item>
+                  <item>Tu es, <hi>thou art.</hi>
+                  </item>
+                  <item>il, elle eſt, <hi>he, ſhe is,</hi>
+                  </item>
+                  <item>Nous, vous, ils, el<g ref="char:EOLhyphen"/>les. <hi>We, ye, they are.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>I had,</hi> J'avois, ou J'us, eſt indeclinable.</p>
+               <p>
+                  <hi>I was,</hi> J'etois, <hi>thou waſt,</hi> tu etois, <hi>he was,</hi> il etoit. <hi>We, ye, they were.</hi> Nous, vous, ils, elles: Indecl.</p>
+               <pb n="10" facs="tcp:135665:6"/>
+               <list>
+                  <item>J'auray, <hi>I will have.</hi>
+                  </item>
+                  <item>J'aurois, <hi>I would have.</hi>
+                  </item>
+                  <item>J'aye, <hi>I may have.</hi>
+                  </item>
+                  <item>J'uſſe, <hi>I might have.</hi>
+                  </item>
+                  <item>Je ſeray, <hi>I ſhall</hi> ou <hi>will be.</hi>
+                  </item>
+                  <item>Je ſerois, <hi>I ſhould be.</hi>
+                  </item>
+                  <item>Je ſois, <hi>I may be.</hi>
+                  </item>
+                  <item>Je fuſſe, <hi>I might be.</hi>
+                  </item>
+               </list>
+               <p>
+                  <hi>Had,</hi> û. <hi>been,</hi> etè. <hi>having,</hi> ayant. <hi>being,</hi> etant. ſont tous indeclinables; exceptez <hi>[ſt]</hi> qui s'ajoute à la ſeconde Perſonne du Singu<g ref="char:EOLhyphen"/>lier.</p>
+               <p>
+                  <hi>N. B.</hi> Tous ces Signes, <hi>can, could, do, did, muſt, may, might, ſhall, ſhould, will, would.</hi> Se mettent devant l' Infinitif ſans <hi>[to]</hi> &amp;c. <hi>I can ſpeak,</hi> Je puis parler. <hi>I do read,</hi> Je lis, &amp;c.</p>
+            </div>
+            <div type="part">
+               <head>Tous les Verbes ſuivants ont leurs Peterits, et Participes Paſſifs diſtinguez ainſi.</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label"> </cell>
+                        <cell role="label">Infinitifs.</cell>
+                        <cell role="label">Preterits</cell>
+                        <cell role="label">Participes.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>To</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Abide</hi>
+                        </cell>
+                        <cell>demeurer</cell>
+                        <cell>
+                           <hi>abode</hi>
+                        </cell>
+                        <cell>abidden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bear</hi>
+                        </cell>
+                        <cell>porter</cell>
+                        <cell>
+                           <hi>bore</hi>
+                        </cell>
+                        <cell>born</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>become</hi>
+                        </cell>
+                        <cell>devenir</cell>
+                        <cell>
+                           <hi>became</hi>
+                        </cell>
+                        <cell>become</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>beget</hi>
+                        </cell>
+                        <cell>engendrer</cell>
+                        <cell>
+                           <hi>begot</hi>
+                        </cell>
+                        <cell>begotten</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>begin</hi>
+                        </cell>
+                        <cell>commencer</cell>
+                        <cell>
+                           <hi>began</hi>
+                        </cell>
+                        <cell>et begun</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>behold</hi>
+                        </cell>
+                        <cell>regarder</cell>
+                        <cell>
+                           <hi>beheld</hi>
+                        </cell>
+                        <cell>beholden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bend</hi>
+                        </cell>
+                        <cell>courber</cell>
+                        <cell>
+                           <hi>bent</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bereave</hi>
+                        </cell>
+                        <cell>priver</cell>
+                        <cell>
+                           <hi>bereft</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>beat</hi>
+                        </cell>
+                        <cell>fraper</cell>
+                        <cell>idem</cell>
+                        <cell>
+                           <hi>beaten</hi>
+                        </cell>
+                     </row>
+                     <pb n="11" facs="tcp:135665:6"/>
+                     <row>
+                        <cell>
+                           <hi>To.</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>beſeech</hi>
+                        </cell>
+                        <cell>prier</cell>
+                        <cell>
+                           <hi>beſought</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bid</hi>
+                        </cell>
+                        <cell>commander</cell>
+                        <cell>
+                           <hi>bad</hi>
+                        </cell>
+                        <cell>bidden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bite</hi>
+                        </cell>
+                        <cell>mordre</cell>
+                        <cell>
+                           <hi>bit</hi>
+                        </cell>
+                        <cell>bitten</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bind</hi>
+                        </cell>
+                        <cell>lier</cell>
+                        <cell>
+                           <hi>bound</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>blend</hi>
+                        </cell>
+                        <cell>meler</cell>
+                        <cell>
+                           <hi>blended</hi>
+                        </cell>
+                        <cell>blent</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bleſs</hi>
+                        </cell>
+                        <cell>benir</cell>
+                        <cell>
+                           <hi>bleſſed</hi>
+                        </cell>
+                        <cell>bleſt</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>blow</hi>
+                        </cell>
+                        <cell>foufler</cell>
+                        <cell>
+                           <hi>blew</hi>
+                        </cell>
+                        <cell>blown</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bleed</hi>
+                        </cell>
+                        <cell>ſaigner</cell>
+                        <cell>
+                           <hi>bled</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>break</hi>
+                        </cell>
+                        <cell>rompre</cell>
+                        <cell>
+                           <hi>broke</hi>
+                        </cell>
+                        <cell>broken</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>breed</hi>
+                        </cell>
+                        <cell>elever</cell>
+                        <cell>
+                           <hi>bred</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>bring</hi>
+                        </cell>
+                        <cell>apporter</cell>
+                        <cell>
+                           <hi>brought</hi>
+                        </cell>
+                        <cell>brought</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>build</hi>
+                        </cell>
+                        <cell>batir</cell>
+                        <cell>
+                           <hi>built</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>burn</hi>
+                        </cell>
+                        <cell>bruler</cell>
+                        <cell>
+                           <hi>burnt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>buy</hi>
+                        </cell>
+                        <cell>acheter</cell>
+                        <cell>
+                           <hi>bought</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Can</hi>
+                        </cell>
+                        <cell>puis</cell>
+                        <cell>
+                           <hi>could</hi>
+                        </cell>
+                        <cell>pouvois</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>catch</hi>
+                        </cell>
+                        <cell>prendre</cell>
+                        <cell>
+                           <hi>caught</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>chuſe</hi>
+                        </cell>
+                        <cell>choifir</cell>
+                        <cell>
+                           <hi>choſe</hi>
+                        </cell>
+                        <cell>choſen</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>chide</hi>
+                        </cell>
+                        <cell>gronder</cell>
+                        <cell>
+                           <hi>chid</hi>
+                        </cell>
+                        <cell>chidden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>cleave</hi>
+                        </cell>
+                        <cell>fendre</cell>
+                        <cell>
+                           <hi>clove</hi>
+                        </cell>
+                        <cell>cleft</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>come</hi>
+                        </cell>
+                        <cell>venir</cell>
+                        <cell>
+                           <hi>came</hi>
+                        </cell>
+                        <cell>come</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>creep</hi>
+                        </cell>
+                        <cell>ramper</cell>
+                        <cell>
+                           <hi>crept</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>crow</hi>
+                        </cell>
+                        <cell>chanter en coq</cell>
+                        <cell>
+                           <hi>crew</hi>
+                        </cell>
+                        <cell>crow'd</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Dare</hi>
+                        </cell>
+                        <cell>oſer</cell>
+                        <cell>
+                           <hi>durſt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>deal</hi>
+                        </cell>
+                        <cell>agir</cell>
+                        <cell>
+                           <hi>dealt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>die</hi>
+                        </cell>
+                        <cell>mourir</cell>
+                        <cell>
+                           <hi>died</hi>
+                        </cell>
+                        <cell>dead</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>do</hi>
+                        </cell>
+                        <cell>faire</cell>
+                        <cell>
+                           <hi>did</hi>
+                        </cell>
+                        <cell>done</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>draw</hi>
+                        </cell>
+                        <cell>tirer</cell>
+                        <cell>
+                           <hi>drew</hi>
+                        </cell>
+                        <cell>drawn</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>drink</hi>
+                        </cell>
+                        <cell>boire</cell>
+                        <cell>
+                           <hi>drank</hi>
+                        </cell>
+                        <cell>drunk</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>drive</hi>
+                        </cell>
+                        <cell>chaſſer</cell>
+                        <cell>
+                           <hi>drove</hi>
+                        </cell>
+                        <cell>driven</cell>
+                     </row>
+                     <pb n="12" facs="tcp:135665:7"/>
+                     <row>
+                        <cell>
+                           <hi>To</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>dream</hi>
+                        </cell>
+                        <cell>ſonger</cell>
+                        <cell>
+                           <hi>dreamt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Eat</hi>
+                        </cell>
+                        <cell>manger</cell>
+                        <cell>idem</cell>
+                        <cell>
+                           <hi>eaten</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Fall</hi>
+                        </cell>
+                        <cell>tomber</cell>
+                        <cell>
+                           <hi>fell</hi>
+                        </cell>
+                        <cell>fallen</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>feed</hi>
+                        </cell>
+                        <cell>nourir</cell>
+                        <cell>
+                           <hi>fed</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>feel</hi>
+                        </cell>
+                        <cell>toucher</cell>
+                        <cell>
+                           <hi>felt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>fight</hi>
+                        </cell>
+                        <cell>tombatre</cell>
+                        <cell>
+                           <hi>fought</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>find</hi>
+                        </cell>
+                        <cell>trouver</cell>
+                        <cell>
+                           <hi>found</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>flee</hi>
+                        </cell>
+                        <cell>ſenfuir</cell>
+                        <cell>
+                           <hi>fled</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>fly</hi>
+                        </cell>
+                        <cell>voler</cell>
+                        <cell>
+                           <hi>flew</hi>
+                        </cell>
+                        <cell>flown</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>fling</hi>
+                        </cell>
+                        <cell>ruer</cell>
+                        <cell>
+                           <hi>flung</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>forgive</hi>
+                        </cell>
+                        <cell>pardoner</cell>
+                        <cell>
+                           <hi>forgave</hi>
+                        </cell>
+                        <cell>forgiven</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>forget</hi>
+                        </cell>
+                        <cell>oublier</cell>
+                        <cell>
+                           <hi>forgot</hi>
+                        </cell>
+                        <cell>forgotten</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>forſake</hi>
+                        </cell>
+                        <cell>abandonner</cell>
+                        <cell>
+                           <hi>forſook</hi>
+                        </cell>
+                        <cell>forſaken</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>forſwear</hi>
+                        </cell>
+                        <cell>ſe parjurer</cell>
+                        <cell>
+                           <hi>forſwore</hi>
+                        </cell>
+                        <cell>forſworn</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>fright</hi>
+                        </cell>
+                        <cell>freter</cell>
+                        <cell>
+                           <hi>frighted</hi>
+                        </cell>
+                        <cell>fraught</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>freez</hi>
+                        </cell>
+                        <cell>geler</cell>
+                        <cell>
+                           <hi>froze</hi>
+                        </cell>
+                        <cell>frozen</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Get</hi>
+                        </cell>
+                        <cell>gagner</cell>
+                        <cell>
+                           <hi>got</hi>
+                        </cell>
+                        <cell>gotten</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>give</hi>
+                        </cell>
+                        <cell>donner</cell>
+                        <cell>
+                           <hi>gave</hi>
+                        </cell>
+                        <cell>given</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>geld</hi>
+                        </cell>
+                        <cell>chatrer</cell>
+                        <cell>
+                           <hi>gelt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>gnaw</hi>
+                        </cell>
+                        <cell>ronger</cell>
+                        <cell>
+                           <hi>gnaw'd</hi>
+                        </cell>
+                        <cell>gnawen</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>go</hi>
+                        </cell>
+                        <cell>aller</cell>
+                        <cell>
+                           <hi>went</hi>
+                        </cell>
+                        <cell>gone</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>grind</hi>
+                        </cell>
+                        <cell>moudre</cell>
+                        <cell>
+                           <hi>ground</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>grave</hi>
+                        </cell>
+                        <cell>graver</cell>
+                        <cell>
+                           <hi>grav'd</hi>
+                        </cell>
+                        <cell>graven</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>grow</hi>
+                        </cell>
+                        <cell>croitre</cell>
+                        <cell>
+                           <hi>grew</hi>
+                        </cell>
+                        <cell>grown</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Hang</hi>
+                        </cell>
+                        <cell>pendre</cell>
+                        <cell>
+                           <hi>hung</hi>
+                        </cell>
+                        <cell>hang<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>d</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap>
+                        </cell>
+                        <cell>aider</cell>
+                        <cell>
+                           <hi>holp</hi>
+                        </cell>
+                        <cell>holpen</cell>
+                     </row>
+                     <pb n="13" facs="tcp:135665:7"/>
+                     <row>
+                        <cell>
+                           <hi>To</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>hew</hi>
+                        </cell>
+                        <cell>hacher</cell>
+                        <cell>
+                           <hi>hew'd</hi>
+                        </cell>
+                        <cell>hewen</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>hide</hi>
+                        </cell>
+                        <cell>cacher</cell>
+                        <cell>
+                           <hi>hid</hi>
+                        </cell>
+                        <cell>hidden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>hold</hi>
+                        </cell>
+                        <cell>tenir</cell>
+                        <cell>
+                           <hi>held</hi>
+                        </cell>
+                        <cell>holden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Keep</hi>
+                        </cell>
+                        <cell>garder</cell>
+                        <cell>
+                           <hi>kept</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>know</hi>
+                        </cell>
+                        <cell>connoitre</cell>
+                        <cell>
+                           <hi>knew</hi>
+                        </cell>
+                        <cell>known</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Lay</hi>
+                        </cell>
+                        <cell>mettre</cell>
+                        <cell>
+                           <hi>laid</hi>
+                        </cell>
+                        <cell>lain</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>lead</hi>
+                        </cell>
+                        <cell>mener</cell>
+                        <cell>
+                           <hi>led</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>leave</hi>
+                        </cell>
+                        <cell>laiſſer</cell>
+                        <cell>
+                           <hi>left</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>lend</hi>
+                        </cell>
+                        <cell>preter</cell>
+                        <cell>
+                           <hi>lent</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>loſe</hi>
+                        </cell>
+                        <cell>perdre</cell>
+                        <cell>
+                           <hi>loſt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>lye</hi>
+                        </cell>
+                        <cell>etre couche</cell>
+                        <cell>
+                           <hi>lay</hi>
+                        </cell>
+                        <cell>layn</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Make</hi>
+                        </cell>
+                        <cell>fair</cell>
+                        <cell>
+                           <hi>made</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>may</hi>
+                        </cell>
+                        <cell>je puis</cell>
+                        <cell>
+                           <hi>might</hi>
+                        </cell>
+                        <cell>pouvois</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>mean</hi>
+                        </cell>
+                        <cell>penſer</cell>
+                        <cell>
+                           <hi>meant</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>meet</hi>
+                        </cell>
+                        <cell>renconter</cell>
+                        <cell>
+                           <hi>met</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>melt</hi>
+                        </cell>
+                        <cell>fondre</cell>
+                        <cell>
+                           <hi>melted</hi>
+                        </cell>
+                        <cell>molten</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>mow</hi>
+                        </cell>
+                        <cell>faucher</cell>
+                        <cell>
+                           <hi>mow'd</hi>
+                        </cell>
+                        <cell>mown</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Paſs</hi>
+                        </cell>
+                        <cell>paſſer</cell>
+                        <cell>
+                           <hi>paſſed</hi>
+                        </cell>
+                        <cell>paſt</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Read</hi>
+                        </cell>
+                        <cell>lire</cell>
+                        <cell>
+                           <hi>read</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>reap</hi>
+                        </cell>
+                        <cell>moiſſoner</cell>
+                        <cell>
+                           <hi>reapt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Rend</hi>
+                        </cell>
+                        <cell>dechirer</cell>
+                        <cell>
+                           <hi>rent</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ride</hi>
+                        </cell>
+                        <cell>aller a cheval</cell>
+                        <cell>
+                           <hi>rode</hi>
+                        </cell>
+                        <cell>ridden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ring</hi>
+                        </cell>
+                        <cell>ſonner</cell>
+                        <cell>
+                           <hi>rang</hi>
+                        </cell>
+                        <cell>rung</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>riſe</hi>
+                        </cell>
+                        <cell>ſe lever</cell>
+                        <cell>
+                           <hi>roſe</hi>
+                        </cell>
+                        <cell>riſen</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>rive</hi>
+                        </cell>
+                        <cell>fendre</cell>
+                        <cell>
+                           <hi>rived</hi>
+                        </cell>
+                        <cell>riven</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>run</hi>
+                        </cell>
+                        <cell>courir</cell>
+                        <cell>
+                           <hi>ran</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <pb n="14" facs="tcp:135665:8"/>
+                     <row>
+                        <cell>
+                           <hi>To</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Say</hi>
+                        </cell>
+                        <cell>dire</cell>
+                        <cell>
+                           <hi>ſaid</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſeek</hi>
+                        </cell>
+                        <cell>chercher</cell>
+                        <cell>
+                           <hi>ſought</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſeeth</hi>
+                        </cell>
+                        <cell>cuire</cell>
+                        <cell>
+                           <hi>ſod</hi>
+                        </cell>
+                        <cell>ſodden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſell</hi>
+                        </cell>
+                        <cell>vendre</cell>
+                        <cell>
+                           <hi>ſold</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſend</hi>
+                        </cell>
+                        <cell>envoyer</cell>
+                        <cell>
+                           <hi>ſent</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſhake</hi>
+                        </cell>
+                        <cell>ſecouer</cell>
+                        <cell>
+                           <hi>ſhook</hi>
+                        </cell>
+                        <cell>ſhaken</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſhear</hi>
+                        </cell>
+                        <cell>tondre</cell>
+                        <cell>
+                           <hi>ſhore</hi>
+                        </cell>
+                        <cell>ſhorn</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſhave</hi>
+                        </cell>
+                        <cell>razer</cell>
+                        <cell>
+                           <hi>ſhaven</hi>
+                        </cell>
+                        <cell>ſhaven</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſing</hi>
+                        </cell>
+                        <cell>chanter</cell>
+                        <cell>
+                           <hi>ſang</hi>
+                        </cell>
+                        <cell>ſung</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſink</hi>
+                        </cell>
+                        <cell>enfoncer</cell>
+                        <cell>
+                           <hi>ſank</hi>
+                        </cell>
+                        <cell>ſunk</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſit</hi>
+                        </cell>
+                        <cell>s'aſſeoir</cell>
+                        <cell>
+                           <hi>ſat</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſhine</hi>
+                        </cell>
+                        <cell>briller</cell>
+                        <cell>
+                           <hi>ſhone</hi>
+                        </cell>
+                        <cell>ſhined</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſhrink</hi>
+                        </cell>
+                        <cell>ſe retreſſir</cell>
+                        <cell>
+                           <hi>ſhrunk</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſlay</hi>
+                        </cell>
+                        <cell>tuer</cell>
+                        <cell>
+                           <hi>ſlew</hi>
+                        </cell>
+                        <cell>ſlain</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſleep</hi>
+                        </cell>
+                        <cell>dormir</cell>
+                        <cell>
+                           <hi>ſlept</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſlide</hi>
+                        </cell>
+                        <cell>gliſſer</cell>
+                        <cell>
+                           <hi>ſlid</hi>
+                        </cell>
+                        <cell>ſlidden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſhrink</hi>
+                        </cell>
+                        <cell>ſe ſouſtraire</cell>
+                        <cell>
+                           <hi>ſhrank</hi>
+                        </cell>
+                        <cell>ſhrunk</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſmell</hi>
+                        </cell>
+                        <cell>ſentir</cell>
+                        <cell>
+                           <hi>ſmelt</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſmite</hi>
+                        </cell>
+                        <cell>frapper</cell>
+                        <cell>
+                           <hi>ſmote</hi>
+                        </cell>
+                        <cell>ſmitten</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſnow</hi>
+                        </cell>
+                        <cell>neiger</cell>
+                        <cell>
+                           <hi>ſnew</hi>
+                        </cell>
+                        <cell>ſnown</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſpeak</hi>
+                        </cell>
+                        <cell>parler</cell>
+                        <cell>
+                           <hi>ſpoke</hi>
+                        </cell>
+                        <cell>ſpoken</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſpeed</hi>
+                        </cell>
+                        <cell>reuſſir</cell>
+                        <cell>
+                           <hi>ſped</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſpend</hi>
+                        </cell>
+                        <cell>depenſer</cell>
+                        <cell>
+                           <hi>ſpent</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſpill</hi>
+                        </cell>
+                        <cell>verſer</cell>
+                        <cell>
+                           <hi>ſpilled</hi>
+                        </cell>
+                        <cell>ſpilt</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſpin</hi>
+                        </cell>
+                        <cell>filer</cell>
+                        <cell>
+                           <hi>ſpun</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſpread</hi>
+                        </cell>
+                        <cell>publier</cell>
+                        <cell>
+                           <hi>ſpred</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſpring</hi>
+                        </cell>
+                        <cell>ſortir</cell>
+                        <cell>
+                           <hi>ſprang</hi>
+                        </cell>
+                        <cell>ſprung</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſtand</hi>
+                        </cell>
+                        <cell>etre debout</cell>
+                        <cell>
+                           <hi>ſtood</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſteal</hi>
+                        </cell>
+                        <cell>derober</cell>
+                        <cell>
+                           <hi>ſtole</hi>
+                        </cell>
+                        <cell>ſtoln</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſtick</hi>
+                        </cell>
+                        <cell>s'attacher</cell>
+                        <cell>
+                           <hi>ſtuck</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſtink</hi>
+                        </cell>
+                        <cell>puer</cell>
+                        <cell>
+                           <hi>ſtank</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <pb n="15" facs="tcp:135665:8"/>
+                     <row>
+                        <cell>
+                           <hi>To</hi>
+                        </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                        <cell> </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſting</hi>
+                        </cell>
+                        <cell>piquer</cell>
+                        <cell>
+                           <hi>ſtung</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſtride</hi>
+                        </cell>
+                        <cell>enjamber</cell>
+                        <cell>
+                           <hi>ſtrode</hi>
+                        </cell>
+                        <cell>ſtridden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſtring</hi>
+                        </cell>
+                        <cell>enfiler</cell>
+                        <cell>
+                           <hi>ſtrung</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſtrike</hi>
+                        </cell>
+                        <cell>frapper</cell>
+                        <cell>
+                           <hi>ſtruck</hi>
+                        </cell>
+                        <cell>ſtrucken</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſtrive</hi>
+                        </cell>
+                        <cell>diſputer</cell>
+                        <cell>
+                           <hi>ſtrove</hi>
+                        </cell>
+                        <cell>ſtriven</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſwear</hi>
+                        </cell>
+                        <cell>jurer</cell>
+                        <cell>
+                           <hi>ſwore</hi>
+                        </cell>
+                        <cell>ſworn</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſweat</hi>
+                        </cell>
+                        <cell>ſuer</cell>
+                        <cell>
+                           <hi>ſwet</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſweep</hi>
+                        </cell>
+                        <cell>netoyer</cell>
+                        <cell>
+                           <hi>ſwept</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſwing</hi>
+                        </cell>
+                        <cell>etre agite</cell>
+                        <cell>
+                           <hi>ſwung</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>ſwim</hi>
+                        </cell>
+                        <cell>nager</cell>
+                        <cell>
+                           <hi>ſwam</hi>
+                        </cell>
+                        <cell>ſwom</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Take</hi>
+                        </cell>
+                        <cell>prendre</cell>
+                        <cell>
+                           <hi>took</hi>
+                        </cell>
+                        <cell>taken</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>teach</hi>
+                        </cell>
+                        <cell>enſeigner</cell>
+                        <cell>
+                           <hi>taught</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>tear</hi>
+                        </cell>
+                        <cell>mettre en pieces</cell>
+                        <cell>
+                           <hi>tore</hi>
+                        </cell>
+                        <cell>torn</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>tell</hi>
+                        </cell>
+                        <cell>dire</cell>
+                        <cell>
+                           <hi>told</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>think</hi>
+                        </cell>
+                        <cell>penſer</cell>
+                        <cell>
+                           <hi>thought</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>tread</hi>
+                        </cell>
+                        <cell>marcher</cell>
+                        <cell>
+                           <hi>trod</hi>
+                        </cell>
+                        <cell>trodden</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>thrive</hi>
+                        </cell>
+                        <cell>s'enrichir</cell>
+                        <cell>
+                           <hi>throve</hi>
+                        </cell>
+                        <cell>thriven</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>throw</hi>
+                        </cell>
+                        <cell>jetter</cell>
+                        <cell>
+                           <hi>threw</hi>
+                        </cell>
+                        <cell>thrown</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Wake</hi>
+                        </cell>
+                        <cell>eveiller</cell>
+                        <cell>
+                           <hi>woke</hi>
+                        </cell>
+                        <cell>waked</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>wear</hi>
+                        </cell>
+                        <cell>porter, uſer</cell>
+                        <cell>
+                           <hi>wore</hi>
+                        </cell>
+                        <cell>worn</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>weave</hi>
+                        </cell>
+                        <cell>treſſer, tiſſer</cell>
+                        <cell>
+                           <hi>wove</hi>
+                        </cell>
+                        <cell>woven</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>weep</hi>
+                        </cell>
+                        <cell>pleurer</cell>
+                        <cell>
+                           <hi>wept</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>win</hi>
+                        </cell>
+                        <cell>gagner</cell>
+                        <cell>
+                           <hi>won</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>wind</hi>
+                        </cell>
+                        <cell>devider, tourner</cell>
+                        <cell>
+                           <hi>wound</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>work</hi>
+                        </cell>
+                        <cell>travailler</cell>
+                        <cell>
+                           <hi>wrought</hi>
+                        </cell>
+                        <cell>idem</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>write</hi>
+                        </cell>
+                        <cell>ecrire</cell>
+                        <cell>
+                           <hi>wrote</hi>
+                        </cell>
+                        <cell>written</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>wring</hi>
+                        </cell>
+                        <cell>tordre</cell>
+                        <cell>
+                           <hi>wrang</hi>
+                        </cell>
+                        <cell>&amp; wrung</cell>
+                     </row>
+                  </table>
+               </p>
+               <pb n="16" facs="tcp:135665:9"/>
+               <p>Reigle pour connoitre Les Mots Ang lois par la dermiere ſillabe.</p>
+               <p>
+                  <hi>En.</hi> etant adjouté fait le verbe du Nom. <hi>haſt</hi> hate, <hi>haſten</hi> ſe hater, <hi>length</hi> longueur, <hi>lengthen</hi> aggrandir.</p>
+               <p>
+                  <hi>Er.</hi> Etant adjouté derriere les Verbes fait le Nom ſubſtantif, comme. <hi>hear</hi> hearer, <hi>bear</hi> bearer, <hi>give</hi> giver.</p>
+               <p>
+                  <hi>Y.</hi> fait L'adjectif etant unis derriere Le ſubſtan<g ref="char:EOLhyphen"/>tif. comme, <hi>louſe, louſy,</hi> poux, pouilleux.</p>
+               <p>
+                  <hi>Ly.</hi> Fait la meme choſe; <hi>Heaven, heavenly, God, godly</hi>
+               </p>
+               <p>
+                  <hi>Full.</hi> repreſente l'abondance par ex. <hi>Joy, joy<g ref="char:EOLhyphen"/>ful. Fruit, fruitful.</hi>
+               </p>
+               <p>
+                  <hi>Some.</hi> Fait le meme office que full. <hi>Burden, burdenſome; Light, lightſome.</hi>
+               </p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>n, diſs, Mis.</hi> Otent auſſi de la qualité. <hi>unkind</hi> deplaiſant. <hi>To diſhonour.</hi> deſhonorer, <hi>to miſtake,</hi> meprendre.</p>
+               <p>
+                  <hi>Iſh.</hi> Diminue de la qualité ſeulement, comme, <hi>green,</hi> verd, <hi>greeniſh,</hi> verdatre.</p>
+               <p>
+                  <hi>Neſſ.</hi> Fait le ſubſtantif de l'adjectif, comme <hi>good, goodneſs,</hi> bon, bonté.</p>
+               <p>
+                  <hi>Hood.</hi> Fait le meme office, <hi>Widow, Widowhood,</hi> Veuve, Veuvage.</p>
+               <p>
+                  <hi>Ship.</hi> Fait connoitre la charge ou l'office. <hi>lord, lordſhip,</hi> ſeigneur, ſeignurie.</p>
+               <p>
+                  <hi>Dome, Rick, Wick<g ref="char:punc">▪</g>
+                  </hi> repreſentent auſſila charge ou office ou la condition de la perſonne, <hi>wiſdome,</hi> ſageſſe, <hi>Biſhoprick,</hi> Eveché, <hi>Bailywick,</hi> Bailliage.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
